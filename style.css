@@ -1,0 +1,24 @@
+body{
+    background-color: #B3E7FA;
+}
+h1{text-align: center;
+    font-size: 50px;
+    
+}
+.hydro{
+    background-color: #ccf7f7;
+}
+
+nav.menu{
+    display: contents;
+}
+.corps{
+    margin: 50px;
+    padding: 50px;
+}
+a{
+    font-size: 25px;
+    padding: 85px;
+    color: black;
+    font-weight: bold;
+}
