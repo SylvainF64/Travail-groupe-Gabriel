@@ -19,7 +19,6 @@ nav ul {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin-top: 20px;
 
-
 }
 
 nav a {
@@ -42,53 +41,48 @@ h1 {
     color: black;
     text-align: center;
     font-size: 75px;
-    padding: 10px;
 }
 
 p {
     color: black;
     font-size: 25px;
-    text-align: center;
+    text-align: left;
     margin: 20px;
 }
 
-button {
-    width: 150px;
-    height: 50px;
-    background-color: blue;
-    color: white;
-    border-radius: 15px;
-    display: block;
-    margin: auto;
-    font-size: 15px;
-    font-weight: bold;
-
-}
-
-button:hover {
-    background-color: red;
-
-
-}
 
 main {
     background-color: rgb(255, 254, 253);
     padding: 25px;
 }
 
-.corps {
-    border-image: 25px;
-    display: flexbox;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    margin: 60px;
-    padding: 50px;
-}
 
 footer {
     background-color: rgb(193, 240, 236);
     display: flex;
     flex-direction: row;
-    grid-template-columns: 1px 1px;
+    gap: 500px;
+}
+
+.hero{
+    background-color: rgb(193, 240, 236);
+}
+
+.nav1{
+    display: flex;
+    gap: 100px;
+}
+
+.nav2{
+    display: flex;
+    gap: 100px;
+}
+
+.Tchiant{
+    text-align: right;
+}
+
+.nav3{
+    display: flex;
+    gap: 100px;
 }
