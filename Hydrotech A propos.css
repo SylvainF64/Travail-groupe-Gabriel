@@ -30,7 +30,7 @@ nav a {
 
 nav a:hover {
     text-decoration: underline;
-    color: blue
+    color: sandybrown
 }
 
 body {
@@ -54,6 +54,8 @@ p {
 main {
     background-color: rgb(255, 254, 253);
     padding: 25px;
+    border-radius: 50px;
+    margin: 10px;
 }
 
 
@@ -64,25 +66,38 @@ footer {
     gap: 500px;
 }
 
-.hero{
+.hero {
     background-color: rgb(193, 240, 236);
 }
 
-.nav1{
+.nav1 {
     display: flex;
     gap: 100px;
+    background-color: rgb(193, 240, 236);
+    margin: 50px;
+    padding: 50px;
+    border-radius: 50px;
+
 }
 
-.nav2{
+.nav2 {
     display: flex;
     gap: 100px;
+    background-color: rgb(193, 240, 236);
+    margin: 50px;
+    padding: 50px;
+    border-radius: 50px;
 }
 
-.Tchiant{
+.Tchiant {
     text-align: right;
 }
 
-.nav3{
+.nav3 {
     display: flex;
     gap: 100px;
+    background-color: rgb(193, 240, 236);
+    margin: 50px;
+    padding: 50px;
+    border-radius: 50px;
 }
